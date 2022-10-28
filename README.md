@@ -4,7 +4,7 @@
 
 <h1>Prévia</h1>
 
-<p>Clique <a href="https://thainno.github.io/wall-bot/">aqui</a> para visualizar o projeto.</p
+<p>Clique <a href="https://thainno.github.io/Wall-bot/">aqui</a> para visualizar o projeto.</p
 
 <img src="https://github.com/Thainno/wall-bot/blob/main/imagens/Previa.png"></img>
 
