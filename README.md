@@ -1,6 +1,6 @@
 <h1>Landing page Wall-bot</h1>
   
-<p>Página criada para praticar e testar alguns conhecimentos em HTML e CSS com a ajuda de um vídeo ministrado pela Rafa Ballerini</p>
+<p>Página criada para praticar e testar alguns conhecimentos em HTML e CSS com a ajuda de um vídeo ministrado pela Rafa Ballerini.</p>
 
 <h1>Prévia</h1>
 
